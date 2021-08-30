@@ -1,16 +1,15 @@
-### Hi there 👋
+### Here is What I'm working on. 👋
 
-<!--
-**Abhimanyu-kr-yadav/Abhimanyu-kr-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...Subject Project
+- 🌱 I’m currently learning ...Spring Boot & ReactJs
+- 👯 I’m looking to collaborate on ...Spring Boot & ReactJs
+- 🤔 I’m looking for help with ...GitHub
+- 💬 Ask me about ...AnyThing
+- 📫 How to reach me: ...[Github Link :-] (https://github.com/Abhimanyu-kr-yadav)
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I used to try various type of things.
 -->
